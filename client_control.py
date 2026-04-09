@@ -118,7 +118,7 @@ def deletar_usuario():
 # interface grafica
 janela = tk.Tk()
 janela.geometry('650x500')
-janela.title('...Task flow...')
+janela.title('...client control...')
 
 style = ttk.Style()
 style.theme_use('clam')
